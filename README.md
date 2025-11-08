@@ -2,8 +2,6 @@
 
 ### I'm a Coder and UI web designer.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fwogdev&label=Profile views&color=0e75b6&style=flat" alt="fwogdev" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
